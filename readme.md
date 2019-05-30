@@ -8,10 +8,10 @@ Problemset I will be following - [https://codeforces.com/problemset?order=BY_SOL
 
 I plan to do atleast 150 of them in the next 30 days starting 29 May, keeping such a repo will help me keep a track of what I have done and what I have remaining to do.
 
-Currently questions done - 0
+Currently questions done - 7
 
 
-Questions TODO - 150
+Questions TODO - 143
 
 Codeforces Rating when started - 1264
 
@@ -42,4 +42,11 @@ Wish me luck!
 
 
 5.479C
+
+
+6.545C
+
+
+7.580B
+
 
