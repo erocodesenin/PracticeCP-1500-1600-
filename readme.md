@@ -8,12 +8,12 @@ Problemset I will be following - [https://codeforces.com/problemset?order=BY_SOL
 
 I plan to do atleast 150 of them in the next 30 days starting 29 May, keeping such a repo will help me keep a track of what I have done and what I have remaining to do.
 
-Currently questions done - 7
+Currently questions done - 16
 
 
-Questions TODO - 143
+Questions TODO - 146
 
-Codeforces Rating when started - 1264
+Codeforces Rating when started - 1264 -> 1245
 
 
 Will update rating after each contest with a description of how each contest went, and how I could have approached it better.
@@ -66,3 +66,13 @@ Wish me luck!
 
 5.277A
 
+
+## 1 June 2019
+
+1.650A
+
+2.276C
+
+3.550B
+
+Also gave Codeforces Global Round 3, was only able to do the first question, did get far in the 2nd Question, got -ve 19.
