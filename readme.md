@@ -13,7 +13,7 @@ Currently questions done - 16
 
 Questions TODO - 146
 
-Codeforces Rating when started - 1264 -> 1245 -> 1237
+Codeforces Rating when started - 1264 -> 1245 -> 1237 -> 1297
 
 
 Will update rating after each contest with a description of how each contest went, and how I could have approached it better.
@@ -84,3 +84,19 @@ Did nothing except upsolving one question.
 ## 3 June 2019
 
 Gave Codeforces round #563, could only solve the A & B, upsolved C, got -ve 9.
+
+## 4 June and 5 June 2019
+
+1.687A
+
+2.706C
+
+3.576A
+
+4.676C
+
+5.559A
+
+6.437C
+
+Gave codeforces educational round 66, solved only one question pretty fast, got +60.
